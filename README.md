@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Some basic statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chcheetah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chcheetah&theme=dark&align=right&width=50%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAT_1chcheetah&theme=dark&align=right&width=50%)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  PROFILES VIEWS -->
 **Profile Views** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
