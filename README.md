@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- SOCIAL MEDIA HANDLES -->
 
 
-<h2> 🔭 🌱 I’m currently working on and learning Machine Learning and Deep Learning </h2>
+<h2> 🔭 🌱 I’m currently working on & learning Machine Learning (ML) and Deep Learning (DL)</h2>
 <h2> 👯 I’m looking to collaborate on interesting projects </h2>
 
 ### Some basic statistics 
