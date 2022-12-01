@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 <!-- SOCIAL MEDIA HANDLES -->
 
+- 🔭 🌱 I’m currently working on and learning Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on interesting projects
 
 ### Some basic statistics 
 
