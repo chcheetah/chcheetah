@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 <!-- SOCIAL MEDIA HANDLES -->
 
- Hi there 👋 I am Harshiv Chandra, a third year CS Engineering Student!
+ <h3> Hi there, welcome to my github profile👋 </h3>
+ 
+ <h4> I am Harshiv Chandra, a third year CS Engineering Student! </h4>
 
-<h2> 🔭 🌱 I’m currently working on various projects involving  Machine Learning (ML) and Deep Learning (DL)</h2>
-<h2> 👯 I’m looking to collaborate on any interesting projects in these domains </h2>
+<h4> 🔭 🌱 I’m currently working on various projects involving  Machine Learning (ML) and Deep Learning (DL).</h4>
+<h4> 👯 I’m looking to collaborate on any interesting projects in these domains. </h4>
 
 ### Some basic statistics 
 
