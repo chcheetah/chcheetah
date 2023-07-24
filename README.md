@@ -18,20 +18,28 @@ Here are some ideas to get you started:
 <!-- SOCIAL MEDIA HANDLES -->
 
  <h3> Hi there, welcome to my github profile👋 </h3>
+
+ <h4> Fun Fact: 1 program a day keeps the inertia away! </h4>
  
- <h4> I am Harshiv Chandra, a third year CS Engineering Student! </h4>
+ <h4> I am Harshiv Chandra, a fourth year CS Engineering Student! </h4>
 
 <h4> 🔭 🌱 I’m currently working on various projects involving  Machine Learning (ML) and Deep Learning (DL).</h4>
 <h4> 👯 I’m looking to collaborate on any interesting projects in these domains. </h4>
+<h4>  </h4>
 
 ### Some basic statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chcheetah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)  
+
+### My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chcheetah&layout=compact&theme=dark)](https://github.com/chcheetah/github-readme-stats)
 
 
 <!--  PROFILES VIEWS -->
 **Profile Views** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/chcheetah/count.svg?align=center)
+
+
+I keep on adding new repos whenever possible!
      
          
