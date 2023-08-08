@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 -->
 <!-- SOCIAL MEDIA HANDLES -->
 
- <h3> Hi there, welcome to my github profile👋 </h3>
+<h3> Hey there, welcome to my corner of GitHub! 👋 </h3>
 
- <h4> Fun Fact: 1 program a day keeps the inertia away! </h4>
+<h4> <i>Did you know? Embracing a program-a-day mantra keeps the sluggishness away!</i> </h4>
+
+<h4>I'm Harshiv Chandra, a fourth-year CS Engineering Student, riding the waves of curiosity.</h4>
+
+<h4>🔭 🌱 Right now, I'm elbows deep in projects exploring the fascinating worlds of Machine Learning (ML) and Deep Learning (DL). </h4>
+
+<h4>👯 I'm all ears for exciting collaborations in these realms.</h4>
  
- <h4> I am Harshiv Chandra, a fourth year CS Engineering Student! </h4>
-
-<h4> 🔭 🌱 I’m currently working on various projects involving  Machine Learning (ML) and Deep Learning (DL).</h4>
-<h4> 👯 I’m looking to collaborate on any interesting projects in these domains. </h4>
-<h4>  </h4>
+ <h3>If you've got an interesting project brewing, let's make tech magic happen! </h3>
 
 ### Some basic statistics 
 
