@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chcheetah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)  
 
+
+
 ### My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chcheetah&layout=compact&theme=dark)](https://github.com/chcheetah/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chcheetah&layout=compact&theme=dark)](https://github.com/chcheetah/github-readme-stats)
 
 
 <!--  PROFILES VIEWS -->
