@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!-- SOCIAL MEDIA HANDLES -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chcheetah&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chcheetah&theme=monokai&column=-1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3> Hey there, welcome to my corner of GitHub! 👋 </h3>
 
