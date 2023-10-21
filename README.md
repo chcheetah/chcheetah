@@ -27,9 +27,16 @@ Here are some ideas to get you started:
 
 <h4>🔭 🌱 Right now, I'm elbows deep in projects exploring the fascinating worlds of Machine Learning (ML) and Deep Learning (DL). </h4>
 
-<h4>👯 I'm all ears for exciting collaborations in these realms.</h4>
+<h4>📕 I have recently published a paper in a Q1 journal, the details of which can be found <a href = "https://ieeexplore.ieee.org/document/10239153">here.</a></h4>
+
+<h4>👓 I am also a journal reviewer in my free time. 🤓</h4>
+
+<h4>👯 I'm all ears for exciting collaborations. Just drop me a message <a href="https://chcheetah.github.io/contact.html">here</a>. </h4>
  
-<h3>If you've got an interesting project brewing, let's make tech magic happen! </h3>
+<h3>💡 If you've got an interesting project brewing, let's make tech magic happen! </h3>
+
+<h3>🗯️ <i> Psst : don't forget to visit my website <a href="https://chcheetah.github.io"> over here 😃 </a> </i> </h3>
+
  
 ### Some basic statistics 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chcheetah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)  
